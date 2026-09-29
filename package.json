@@ -10,14 +10,14 @@
         "@alpinejs/persist": "^3.14.1",
         "alpinejs": "^3.2.4",
         "autoprefixer": "^10.4.20",
-        "axios": "^0.30",
+        "axios": "^0.33",
         "laravel-vite-plugin": "^1.0.5",
         "@vitejs/plugin-vue2": "^2.3.1",
-        "lodash": "^4.17.19",
-        "postcss": "^8.4.47",
+        "lodash": "^4.18.1",
+        "postcss": "^8.5.28",
         "postcss-import": "^15.1.0",
         "postcss-nesting": "^12.1.5",
-        "vite": "5.4.11"
+        "vite": "8.3.1"
     },
     "dependencies": {
         "@docsearch/js": "^3.0.0-alpha.40",
